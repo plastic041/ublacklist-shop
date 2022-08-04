@@ -66,9 +66,9 @@
 - domain: 'shopping.interpark.com'
   evidence: https://code-examples.net/ja/q/246c591
   original: https://stackoverflow.com/questions/38192529/
-  note:
 
 - domain: 'e-himart.co.kr'
+  note:
   evidence: https://code-examples.net/ja/q/246c591
   original: https://stackoverflow.com/questions/38192529/
   note:
@@ -184,6 +184,11 @@
   note:
 
 - domain: 'mobile.kyobobook.co.kr'
+  evidence: https://code-examples.net/ja/q/246c591
+  original: https://stackoverflow.com/questions/38192529/
+  note:
+
+- domain: 'coupang.com'
   evidence: https://code-examples.net/ja/q/246c591
   original: https://stackoverflow.com/questions/38192529/
   note:
